@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切法高王經
+#+DATE: 2015-08-30 20:21:54.287749
+#+PROPERTY: JUAN 0
